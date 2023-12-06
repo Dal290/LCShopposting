@@ -1,2 +1,2 @@
-# LethalCompanyTemplate
-A template for a BepInEx 5 Plugin, using the correct .csproj configuration for Lethal Company modding
+# Random Mod to figure out Mods
+Messing around to get a bunch of models or textures in the game
